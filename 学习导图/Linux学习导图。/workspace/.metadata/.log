@@ -1,0 +1,336 @@
+!SESSION 2017-08-03 00:18:23.837 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-03 00:18:35.032
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-03 00:18:35.034
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-03 00:18:38.842
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-03 00:18:43.186
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-03 00:18:43.205
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+!SESSION 2017-08-05 17:58:57.170 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-05 17:59:01.095
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-05 17:59:01.097
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-05 17:59:03.721
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-05 17:59:06.913
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-05 17:59:06.925
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux用户和目录操作.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-08-05 17:59:08.103
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-08-06 00:42:18.135 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-06 00:42:22.994
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-06 00:42:22.997
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-06 00:42:27.090
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-06 00:42:32.223
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-06 00:42:32.241
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY net.xmind.workbench 4 0 2017-08-06 00:42:33.508
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1885)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1884)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1457)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:985)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:977)
+	... 4 more
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-08-06 00:42:33.870
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-08-08 16:29:32.866 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:29:37.525
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:29:37.529
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:29:41.178
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:29:45.815
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-08 16:29:45.831
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux tcp(斜杠)ip协议基础.xmind
+
+!ENTRY net.xmind.workbench 4 0 2017-08-08 16:29:47.217
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1885)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1884)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1457)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:985)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:977)
+	... 4 more
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-08-08 16:29:47.634
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-08-08 16:30:16.525 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux下Shell介绍.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux下Shell介绍.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:30:20.784
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:30:20.786
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:30:24.249
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux下Shell介绍.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-08 16:30:28.624
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux下Shell介绍.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-08 16:30:28.638
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux下Shell介绍.xmind
+
+!ENTRY net.xmind.workbench 4 0 2017-08-08 16:30:29.611
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1885)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1884)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1457)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:985)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:977)
+	... 4 more
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-08-08 16:30:43.138
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-08-24 13:51:03.274 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux基础知识（vi编辑器）.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux基础知识（vi编辑器）.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-24 13:51:15.568
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-24 13:51:15.570
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-08-24 13:51:24.577
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux基础知识（vi编辑器）.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-08-24 13:51:30.534
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux基础知识（vi编辑器）.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-08-24 13:51:30.551
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux基础知识（vi编辑器）.xmind
+
+!ENTRY net.xmind.workbench 4 0 2017-08-24 13:51:32.459
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1885)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1884)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1457)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:985)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:977)
+	... 4 more
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-08-24 13:51:33.136
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-09-11 14:23:29.460 -----------------------------------------------
+eclipse.buildId=R3.7.2.201705011955
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux常用命令.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\追风少年\Desktop\Linux学习导图。\Linux常用命令.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-11 14:23:41.366
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-11 14:23:41.368
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-11 14:23:50.478
+!MESSAGE Path queued to be opened: C:\Users\追风少年\Desktop\Linux学习导图。\Linux常用命令.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-11 14:23:56.456
+!MESSAGE Ready to open files: [C:\Users\追风少年\Desktop\Linux学习导图。\Linux常用命令.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-11 14:23:56.488
+!MESSAGE Malformed URI: C:\Users\追风少年\Desktop\Linux学习导图。\Linux常用命令.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-11 14:23:59.048
+!MESSAGE WARNING: Library owner is null in info.json
